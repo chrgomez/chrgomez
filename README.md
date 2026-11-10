@@ -38,12 +38,22 @@ Actualmente desarrollo y comercializo soluciones de software a medida. Aquí te 
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+### 🛠️ Stack tecnológico
 
-<div align="center">
-  ![Stats](https://github-readme-stats.vercel.app/api?username=chrgomez&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrgomez&layout=compact&hide_border=true)
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Data](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![PrimeFaces](https://img.shields.io/badge/PrimeFaces-2F8FD1?style=for-the-badge)
+
+| Capa | Tecnologías |
+|------|-------------|
+| **Lenguaje** | Java |
+| **Framework** | Spring Boot |
+| **Vista** | PrimeFaces (JSF) |
+| **Persistencia** | Hibernate · Spring Data JPA |
+| **Seguridad** | Spring Security |
 
 ---
 
