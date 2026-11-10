@@ -51,7 +51,7 @@ Diseño y despliegue de una arquitectura orientada a eventos resolviendo el fluj
 *   **Tecnologías:** `Java 17/21` `Spring Boot` `Apache Kafka` `Docker` `Prometheus` `Grafana`
 *   **Logros:** Creación de red virtual interna (`devops-net`), resolución de service discovery, y observabilidad con Micrometer.
 *   **CI/CD:** Pipeline automatizado en GitHub Actions para compilación, containerización y push a Docker Hub.
-*   🔗 [Ver Repositorio](https://github.com/chrgomez/devops-even-driven) *(Reemplaza con el link real si es diferente)*
+*   🔗 [Ver Repositorio](https://github.com/chrgomez/devops-event-driven)
 </details>
 
 <hr>
@@ -75,7 +75,7 @@ Implementación de un entorno espacial base de datos/cliente.
 
 *   **Tecnologías:** `PostgreSQL` `PostGIS` `QGIS`
 *   **Logros:** Configuración de bases de datos espaciales y habilitación de extensiones `plpgsql`. Diseño de arquitectura para que múltiples usuarios manejen workspaces locales independientes conectados a un mismo motor.
-*   🔗 [Ver Repositorio](#) (https://github.com/chrgomez/sig)
+*   🔗 [Ver Repositorio](https://github.com/chrgomez/sig)
 </details>
 
 ---
