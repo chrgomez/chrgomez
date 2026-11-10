@@ -33,7 +33,7 @@ Soy un desarrollador apasionado por el Backend, radicado en **Resistencia, Chaco
 
 Actualmente desarrollo y comercializo soluciones de software a medida:
 
-| <img src="mistock.png" width="400" alt="MiStock"> | <img src="hclinica.png" width="400" alt="hClinica"> |
+| <img src="mistock.png" width="400" alt="MiStock"> | <img src="eclinica.png" width="400" alt="hClinica"> |
 | :---: | :---: |
 | **📦 MiStock** | **🏥 hClinica** |
 | Sistema integral para la gestión de inventarios y control de stock. Facturación Electrónica (ARCA). Desarrollado con Spring Boot y PrimeFaces. | Software de gestión médica y clínica para turnos, historias clínicas y envios de informe por correo/whatsapp. |
