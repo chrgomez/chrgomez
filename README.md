@@ -16,7 +16,10 @@ Actualmente desarrollo y comercializo soluciones de software a medida. Aquí te 
 | Sistema integral para la gestión de inventarios y control de stock. Desarrollado con Spring Boot y PrimeFaces. | Software de gestión médica y clínica para turnos, historias clínicas y facturación. |
 | [Ver Demo / Más info](ENLACE_SI_TIENES) | [Ver Demo / Más info](ENLACE_SI_TIENES) |
 
-*(Nota: Reemplaza las URL_IMAGEN por enlaces a capturas de pantalla reales de tus sistemas).*
+---
+
+### 🚀 Trabajos de la Facultad 
+
 
 ---
 
