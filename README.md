@@ -85,12 +85,21 @@ Implementación de un entorno espacial base de datos/cliente.
 
 <div align="center">
 
-[![Stats de Christian](https://github-stats-extended.vercel.app/api?username=chrgomez&show_icons=true&theme=radium&hide_border=true)](https://github.com/chrgomez)
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=chrgomez&show_icons=true&theme=radium&hide_border=true&rank_icon=github" />
 
-[![Lenguajes Top](https://github-stats-extended.vercel.app/api/top-langs/?username=chrgomez&layout=compact&theme=radium&hide_border=true)](https://github.com/chrgomez)
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chrgomez&layout=compact&theme=radium&hide_border=true&langs_count=8" />
 
 </div>
 
+---
+
+## 📈 Actividad en GitHub
+
+<div align="center">
+
+[![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=chrgomez&theme=react-dark&hide_border=true)](https://github.com/chrgomez)
+
+</div>
 
 ---
 
