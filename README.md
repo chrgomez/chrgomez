@@ -6,29 +6,11 @@ Soy un desarrollador apasionado por el Backend, radicado en **Resistencia, Chaco
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
-
-**Backend & Base de Datos**
-<br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-
-**Frontend**
-<br>
-<img src="https://img.shields.io/badge/PrimeFaces-2196F3?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
----
-
 ### 🚀 Sistemas Destacados (Comerciales)
 
 Actualmente desarrollo y comercializo soluciones de software a medida. Aquí te presento mis dos sistemas principales:
 
-| <img src="URL_IMAGEN_MISTOCK.png" width="400" alt="MiStock"> | <img src="URL_IMAGEN_HCLINICA.png" width="400" alt="hClinica"> |
+| <img src="mistock.png" width="400" alt="MiStock"> | <img src="hclinica.png" width="400" alt="hClinica"> |
 | :---: | :---: |
 | **📦 MiStock** | **🏥 hClinica** |
 | Sistema integral para la gestión de inventarios y control de stock. Desarrollado con Spring Boot y PrimeFaces. | Software de gestión médica y clínica para turnos, historias clínicas y facturación. |
