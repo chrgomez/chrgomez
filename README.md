@@ -41,7 +41,8 @@ Actualmente desarrollo y comercializo soluciones de software a medida. Aquí te 
 ### 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrgomez&theme=radium&hide_border=true" width="80%" />
+  ![Stats](https://github-readme-stats.vercel.app/api?username=chrgomez&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrgomez&layout=compact&hide_border=true)
 </div>
 
 ---
