@@ -93,13 +93,15 @@ Implementación de un entorno espacial base de datos/cliente.
 
 ---
 
-## 📈 Actividad en GitHub
+
+## 📈 Mi Actividad en GitHub
 
 <div align="center">
 
-[![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=chrgomez&theme=react-dark&hide_border=true)](https://github.com/chrgomez)
+![GitHub Snake](https://raw.githubusercontent.com/chrgomez/chrgomez/output/github-contribution-grid-snake.svg)
 
 </div>
+
 
 ---
 
