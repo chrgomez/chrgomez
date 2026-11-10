@@ -69,12 +69,12 @@ Implementación de un entorno de Integración Continua (CI) para automatizar val
 <hr>
 
 <details open>
-<summary><b>3. 🌍 Entorno SIG (Sistemas de Información Geográfica)</b></summary>
+<summary><b>3. 🗺️ Visor Geoespacial Provincial (Web GIS)</b></summary>
 <br>
-Implementación de un entorno espacial base de datos/cliente.
+Aplicación Web SIG Full Stack para visualización, edición vectorial y análisis territorial de la Provincia del Chaco.
 
-*   **Tecnologías:** `PostgreSQL` `PostGIS` `QGIS`
-*   **Logros:** Configuración de bases de datos espaciales y habilitación de extensiones `plpgsql`. Diseño de arquitectura para que múltiples usuarios manejen workspaces locales independientes conectados a un mismo motor.
+*   **Tecnologías:** `Node.js` `Express` `OpenLayers 10` `GeoServer` `PostgreSQL/PostGIS`
+*   **Logros:** Integración de estándares OGC (WMS/WFS) para consultas espaciales complejas (Point/BBOX). Implementación de herramientas de digitalización en el cliente con persistencia en BD y módulo de análisis territorial mediante consultas SQL espaciales (Buffers, cálculos de longitudes).
 *   🔗 [Ver Repositorio](https://github.com/chrgomez/sig)
 </details>
 
