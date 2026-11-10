@@ -41,8 +41,10 @@ Actualmente desarrollo y comercializo soluciones de software a medida. Aquí te 
 ### 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrgomez&show_icons=true&theme=radium&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrgomez&layout=compact&theme=radium&hide_border=true" width="48%" />
+
+[![Stats de Christian](https://github-readme-stats.vercel.app/api?username=chrgomez&show_icons=true&theme=radium&hide_border=true)](https://github.com/chrgomez)
+[![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=chrgomez&layout=compact&theme=radium&hide_border=true)](https://github.com/chrgomez)
+
 </div>
 
 ---
